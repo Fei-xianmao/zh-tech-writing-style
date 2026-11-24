@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文技术文档写作风格"
+  short_description: "按中文技术文档写作规范起草、改写和审校，统一用词、结构与排版"
+  default_prompt: "使用 $zh-tech-writing-style 改写以下中文技术文档，保留技术事实、命令和参数。"
